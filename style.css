@@ -116,6 +116,7 @@ ul {
     text-align: center;
     justify-content: center;
     align-items: space-around;
+    flex-wrap: wrap;
     font-weight: bold;
     background-color: white;
     padding: 0px 50px 35px 50px;
