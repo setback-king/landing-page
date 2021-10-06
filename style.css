@@ -26,6 +26,7 @@ h1 {
 p {
     font-size: 18px; 
     color: #0c0b0b;
+    flex-wrap: wrap;
     
 }
 .header {
@@ -128,7 +129,7 @@ ul {
     justify-content: center;
     font-weight: normal;
     flex-basis: 20%;
-    flex-wrap: wrap;
+    
     
 }
 
